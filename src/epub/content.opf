@@ -29,10 +29,10 @@
 		<dc:title id="title">The Purple Land</dc:title>
 		<meta property="file-as" refines="#title">Purple Land, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
-		<meta property="file-as" refines="#subtitle">Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</meta>
+		<dc:title id="subtitle">Being the Narrative of One Richard Lamb’s Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
+		<meta property="file-as" refines="#subtitle">Being the Narrative of One Richard Lamb’s Adventures in The Banda Orientál, in South America, as Told By Himself</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">The Purple Land: Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
+		<dc:title id="fulltitle">The Purple Land: Being the Narrative of One Richard Lamb’s Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
 		<meta property="file-as" refines="#fulltitle">Purple Land, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
