@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Purple Land</dc:title>
 		<meta property="file-as" refines="#title">Purple Land, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
+		<meta property="file-as" refines="#subtitle">Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Purple Land: Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
+		<meta property="file-as" refines="#fulltitle">Purple Land, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
 		<dc:subject id="subject-2">British -- Uruguay -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Uruguay -- Fiction</dc:subject>
@@ -37,45 +44,44 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">An Englishman becomes involved in politics and romance in 19th-century Uruguay.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">An Englishman is forced to flee to Montevideo, Uruguay after marrying an Argentinian girl without her father's permission. When he is unable to find work in the city, he curses the country and its inhabitants, wishing that it was still ruled by England. Looking for work in the countryside, he finds adventure and romance while reexamining his beliefs about freedom and civilization. &lt;i&gt;The Purple Land&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/w-h-hudson"&gt;W. H. Hudson's'&lt;/a&gt; first novel. Ill-received by both critics and the public when first published, it deserved to be considered "perhaps unexcelled by any work of Gaucho literature" by Jorge Luis Borges.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7132</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/000116284</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purple_Land</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-h-hudson_the-purple-land</meta>
 		<dc:creator id="author">W. H. Hudson</dc:creator>
 		<meta property="file-as" refines="#author">Hudson, W. H.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Henry Hudson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W._H._Hudson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79118913</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Stanisław Witkiewicz</dc:contributor>
+		<meta property="file-as" refines="#artist">Stanisław Witkiewicz</meta>
+		<meta property="alternate-script" refines="#artist">Stanislovas Vitkevičius</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n81003959</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Juliet Sutherland</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Eric Eldred</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Eric Eldred</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Charles Franks</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Samuel Medalha</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Samuel Medalha</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
