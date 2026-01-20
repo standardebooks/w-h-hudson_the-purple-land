@@ -56,7 +56,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7132</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000116284</dc:source>
-		<meta property="se:word-count">96011</meta>
+		<meta property="se:word-count">95636</meta>
 		<meta property="se:reading-ease.flesch">64.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purple_Land</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-h-hudson_the-purple-land</meta>
