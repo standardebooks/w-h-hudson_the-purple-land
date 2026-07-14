@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Purple Land: Being the Narrative of One Richard Lamb’s Adventures in The Banda Orientál, in South America, as Told By Himself</dc:title>
 		<meta property="file-as" refines="#fulltitle">Purple Land, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
 		<dc:subject id="subject-2">British -- Uruguay -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Uruguay -- Fiction</dc:subject>
