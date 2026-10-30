@@ -71,19 +71,19 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Stanisław Witkiewicz</dc:contributor>
-		<meta property="file-as" refines="#artist">Stanisław Witkiewicz</meta>
-		<meta property="alternate-script" refines="#artist">Stanislovas Vitkevičius</meta>
+		<meta property="file-as" refines="#artist">Witkiewicz, Stanisław</meta>
+		<meta property="schema:alternateName" refines="#artist">Stanislovas Vitkevičius</meta>
 		<link href="https://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81003959.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Juliet Sutherland</meta>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Eric Eldred</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Eric Eldred</meta>
+		<meta property="file-as" refines="#transcriber-2">Eldred, Eric</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Charles Franks</meta>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
